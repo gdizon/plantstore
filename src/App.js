@@ -15,22 +15,22 @@ function App() {
         <Navbar />
         <div className="content">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/plantstore">
               <Home />
             </Route>
-            <Route path="/monstera">
+            <Route path="/plantstore/monstera">
               <Monstera />
             </Route>
-            <Route path="/hoya">
+            <Route path="/plantstore/hoya">
               <Hoya />
             </Route>
-            <Route path="/philodendron">
+            <Route path="/plantstore/philodendron">
               <Philodendron />
             </Route>
-            <Route path="/Pothos">
+            <Route path="/plantstore/Pothos">
               <Pothos />
             </Route>
-            <Route path="/AboutUs">
+            <Route path="/plantstore/AboutUs">
               <AboutUs />
             </Route>
           </Switch>
