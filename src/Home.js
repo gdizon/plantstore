@@ -9,7 +9,7 @@ const Home = () => {
         <div className="home">
             <div class="row">
                 <div class="column">
-                    <a href='/monstera'>
+                    <a href='/plantstore/monstera'>
                     <div class="card">
                         {/* <img src={monstera} width='80%'></img> */}
                         <h3>Monstera</h3>
@@ -17,7 +17,7 @@ const Home = () => {
                     </a>
                 </div>
                 <div class="column">
-                    <a href='/hoya'>
+                    <a href='/plantstore/hoya'>
                     <div class="card">
                         {/* <img src={hoya} width='80%'></img> */}
                         <h3>Hoya</h3>
@@ -27,7 +27,7 @@ const Home = () => {
             </div>
             <div class="row">
                 <div class="column">
-                    <a href='/philodendron'>
+                    <a href='/plantstore/philodendron'>
                     <div class="card">
                         {/* <img src={philodendron} width='80%'></img> */}
                         <h3>Philodendron</h3>
@@ -35,7 +35,7 @@ const Home = () => {
                     </a>
                 </div>
                 <div class="column">
-                    <a href='/pothos'>
+                    <a href='/plantstore/pothos'>
                     <div class="card">
                         {/* <img src={pothos} width='80%'></img> */}
                         <h3>Pothos</h3>
