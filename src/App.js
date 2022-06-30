@@ -4,6 +4,7 @@ import Monstera from "./Monstera";
 import Hoya from './Hoya';
 import Philodendron from './Philodendron';
 import Pothos from './Pothos';
+import AboutUs from './AboutUs';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 
 function App() {
@@ -28,6 +29,9 @@ function App() {
             </Route>
             <Route path="/Pothos">
               <Pothos />
+            </Route>
+            <Route path="/AboutUs">
+              <AboutUs />
             </Route>
           </Switch>
         </div>
