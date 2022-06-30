@@ -12,9 +12,9 @@ const Navbar = () => {
     return ( 
         <nav className="navbar">
             <div className="links">
-                <Link to="/"><img src={home} width="100"></img></Link>
-                <Link to="/aboutus"><img src={info} width="100"></img></Link>
-                <Link to="/cart"><img src={shopping} width="100"></img></Link>
+                <Link to="/plantstore"><img src={home} width="100"></img></Link>
+                <Link to="/plantstore/aboutus"><img src={info} width="100"></img></Link>
+                <Link to="/plantstore/cart"><img src={shopping} width="100"></img></Link>
             </div>
         </nav>
      );
