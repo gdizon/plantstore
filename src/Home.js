@@ -1,8 +1,9 @@
-import monstera from './monstera.jpg'
-import hoya from './hoya.png'
-import philodendron from './philodendron.jpg'
-import pothos from './pothos.jpg'
-import { useEffect, useState } from 'react'
+import monstera from './monstera.jpg';
+import hoya from './hoya.png';
+import philodendron from './philodendron.jpg';
+import pothos from './pothos.jpg';
+import { Link } from 'react-router-dom';
+// import { useEffect, useState } from 'react'
 const Home = () => {
 
      return ( 
