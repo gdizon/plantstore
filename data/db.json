@@ -1,0 +1,102 @@
+{
+    "plants": [
+        {"Monstera": [
+            {
+                "title":"Monstera Deliciosa",
+                "photo":"./monsteradeliciosa.jpeg",
+                "price":"$44.99",
+                "id":"00"
+            },
+            {
+                "title":"Monstera Siltepecana",
+                "photo":"./monsterasiltepecana.jpeg",
+                "price":"$29.99",
+                "id":"01"
+            },
+            {
+                "title":"Monstera Peru",
+                "photo":"./monsteraperu.jpg",
+                "price":"$34.99",
+                "id":"02"
+            },
+            {
+                "title":"Monstera Adansonii",
+                "photo":"./monsteraadansonii.jpg",
+                "price":"$24.99",
+                "id":"03"
+            }
+        ]},
+        {"Hoya": [
+            {
+                "title":"Hoya Carnosa",
+                "photo":"./hoyacarnosa.jpg",
+                "price":"$29.99",
+                "id":"10"
+            },
+            {
+                "title":"Hoya Kerrii",
+                "photo":"./hoyakerrii.jpg",
+                "price":"$9.99",
+                "id":"11"
+            },
+            {
+                "title":"Hoya Bella",
+                "photo":"./hoyabella.jpg",
+                "price":"$24.99",
+                "id":"12"
+            },
+            {
+                "title":"Hoya Curtisii",
+                "photo":"./hoyacurtisii.jpeg",
+                "price":"$14.99",
+                "id":"13"
+            }
+        ]},
+        {"Philodendron": [
+            {
+                "title":"Philodendron Melanochrysum",
+                "photo":"./philodendronmelanochrysum.jpg",
+                "price":"$34.99",
+                "id":"20"
+            },
+            {
+                "title":"Philodendron Gloriosum",
+                "photo":"./philodendrongloriosum.jpg",
+                "price":"$34.99",
+                "id":"21"
+            },
+            {
+                "title":"Philodendron Pink Princess",
+                "photo":"./philodendronpinkprincess.jpg",
+                "price":"$44.99",
+                "id":"22"
+            },
+            {
+                "title":"Philodendron Birkin",
+                "photo":"./philodendronbirkin.jpg",
+                "price":"$29.99",
+                "id":"23"
+            }
+        ]},
+        {"Pothos": [
+            {
+                "title":"Marble Queen Pothos",
+                "photo":"./marblequeenpothos.jpg",
+                "price":"$14.99",
+                "id":"30"
+            },
+            {
+                "title":"Manjula Pothos",
+                "photo":"./manjulapothos.jpg",
+                "price":"$34.99",
+                "id":"31"
+            },
+            {
+                "title":"Golden Pothos",
+                "photo":"./goldenpothos.jpg",
+                "price":"$14.99",
+                "id":"32"
+            }
+        ]}
+    ]
+}
