@@ -1,7 +1,7 @@
-import monstera from './plantstore/monstera.jpg'
-import hoya from './plantstore/hoya.png'
-import philodendron from './plantstore/philodendron.jpg'
-import pothos from './plantstore/pothos.jpg'
+import monstera from './monstera.jpg'
+import hoya from './hoya.png'
+import philodendron from './philodendron.jpg'
+import pothos from './pothos.jpg'
 import { useEffect, useState } from 'react'
 const Home = () => {
 
