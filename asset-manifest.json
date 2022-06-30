@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.c1f9fcef.css",
-    "main.js": "./static/js/main.870268e3.js",
+    "main.js": "./static/js/main.ab97c57c.js",
     "static/media/marblequeenpothos.jpg": "./static/media/marblequeenpothos.fee55aa94e354799762d.jpg",
     "static/media/monsteraadansonii.jpg": "./static/media/monsteraadansonii.08920860684502572f34.jpg",
     "static/media/monsteraperu.jpg": "./static/media/monsteraperu.795c907730c625d6747b.jpg",
@@ -25,10 +25,10 @@
     "static/media/shopping-cart.png": "./static/media/shopping-cart.96c73cb49987ccdf1154.png",
     "index.html": "./index.html",
     "main.c1f9fcef.css.map": "./static/css/main.c1f9fcef.css.map",
-    "main.870268e3.js.map": "./static/js/main.870268e3.js.map"
+    "main.ab97c57c.js.map": "./static/js/main.ab97c57c.js.map"
   },
   "entrypoints": [
     "static/css/main.c1f9fcef.css",
-    "static/js/main.870268e3.js"
+    "static/js/main.ab97c57c.js"
   ]
 }
