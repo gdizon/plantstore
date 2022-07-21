@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c1f9fcef.css",
-    "main.js": "./static/js/main.f838580f.js",
+    "main.css": "./static/css/main.cca07235.css",
+    "main.js": "./static/js/main.8737e7a5.js",
     "static/media/marblequeenpothos.jpg": "./static/media/marblequeenpothos.fee55aa94e354799762d.jpg",
     "static/media/monsteraadansonii.jpg": "./static/media/monsteraadansonii.08920860684502572f34.jpg",
     "static/media/monsteraperu.jpg": "./static/media/monsteraperu.795c907730c625d6747b.jpg",
@@ -17,6 +17,7 @@
     "static/media/manjulapothos.jpg": "./static/media/manjulapothos.eed97bfd5c431461130f.jpg",
     "static/media/monsterasiltepecana.jpeg": "./static/media/monsterasiltepecana.0fd5c5411d69312b549c.jpeg",
     "static/media/philodendron.jpg": "./static/media/philodendron.59421159f113fbddc9c5.jpg",
+    "static/media/family.jpg": "./static/media/family.880e64656ca82429ce18.jpg",
     "static/media/pothos.jpg": "./static/media/pothos.7a0c226ec85c1129e3b3.jpg",
     "static/media/philodendronpinkprincess.jpg": "./static/media/philodendronpinkprincess.758e485a19118cb57d86.jpg",
     "static/media/philodendronbirkin.jpg": "./static/media/philodendronbirkin.ffce1a2bbca414232e5c.jpg",
@@ -24,11 +25,11 @@
     "static/media/info.png": "./static/media/info.8d2c2e2cd81460bf9d5f.png",
     "static/media/shopping-cart.png": "./static/media/shopping-cart.96c73cb49987ccdf1154.png",
     "index.html": "./index.html",
-    "main.c1f9fcef.css.map": "./static/css/main.c1f9fcef.css.map",
-    "main.f838580f.js.map": "./static/js/main.f838580f.js.map"
+    "main.cca07235.css.map": "./static/css/main.cca07235.css.map",
+    "main.8737e7a5.js.map": "./static/js/main.8737e7a5.js.map"
   },
   "entrypoints": [
-    "static/css/main.c1f9fcef.css",
-    "static/js/main.f838580f.js"
+    "static/css/main.cca07235.css",
+    "static/js/main.8737e7a5.js"
   ]
 }
