@@ -67,3 +67,16 @@ h1 {
   text-decoration: none;
 
 }
+
+.row.img {
+  float:left;
+  padding: 10px;
+}
+
+.row p {
+  float:right;
+}
+
+.aboutus {
+  background-color: #add2c2;
+}

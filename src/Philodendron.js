@@ -5,19 +5,19 @@ import philodendronbirkin from './philodendronbirkin.jpg';
 const Hoya = () => {
     return ( 
         <div className="home">
-        <div class="row">
-            <div class="column">
+        <div className="row">
+            <div className="column">
                 <a href='/philodendronmelanochrysum'>
-                <div class="card">
+                <div className="card">
                     <img src={philodendronmelanochrysum} width='80%'></img>
                     <h3>Philodendron Melanochrysum</h3>
                     <h3>$34.99</h3>
                 </div>
                 </a>
             </div>
-            <div class="column">
+            <div className="column">
                 <a href='/philodendrongloriosum'>
-                <div class="card">
+                <div className="card">
                     <img src={philodendrongloriosum} width='80%'></img>
                     <h3>Philodendron Gloriosum</h3>
                     <h3>$34.99</h3>
@@ -25,19 +25,19 @@ const Hoya = () => {
                 </a>
             </div>
         </div>
-        <div class="row">
-            <div class="column">
+        <div className="row">
+            <div className="column">
                 <a href='/philodendronpinkprincess'>
-                <div class="card">
+                <div className="card">
                     <img src={philodendronpinkprincess} width='80%'></img>
                     <h3>Philodendron Pink Princess</h3>
                     <h3>$44.99</h3>
                 </div>
                 </a>
             </div>
-            <div class="column">
+            <div className="column">
                 <a href='/philodendronbirkin'>
-                <div class="card">
+                <div className="card">
                     <img src={philodendronbirkin} width='80%'></img>
                     <h3>Philodendron Birkin</h3>
                     <h3>$29.99</h3>
